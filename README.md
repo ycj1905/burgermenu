@@ -10,5 +10,5 @@ npm install
 
 ## Usage
 ```bash
-npm install -g live-server
+npm run start
 ```
